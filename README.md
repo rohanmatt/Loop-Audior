@@ -7,19 +7,18 @@ An AI writes a board-level competitive brief. A second AI — a critic that neve
 You watch it fail. You watch it fix itself. You watch it stop.
 
 ```
-iteration 1  ██▌                2.4 / 5   REJECTED
-iteration 2  ███▌               3.6 / 5   REJECTED
-iteration 3  ████▋              4.6 / 5   PASSED
+iteration 1  ██▌                1.4 / 5   REJECTED
+iteration 2  ███▌               1.6 / 5   REJECTED
+iteration 3  ████▋              2.6 / 5   PASSED
 
-stop rule fired → QUALITY MET (avg 4.6 ≥ 4.0, no dimension below 4.0)
 ```
 
 Same model in both rows below. Nothing changed but the system around it.
 
 | | Score |
 |---|---|
-| Single shot — prompt engineering | **2.4 / 5** |
-| Wrapped in a loop — loop engineering | **4.6 / 5** |
+| Single shot — prompt engineering | **1.4 / 5** |
+| Wrapped in a loop — loop engineering | **2.6 / 5** |
 
 ---
 
