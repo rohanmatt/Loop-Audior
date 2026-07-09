@@ -226,7 +226,7 @@ python backend.py
 iterations: 3
 curve:      [2.4, 3.6, 4.6]
 retries:    2
-stop:       QUALITY MET — avg 4.6 >= 4.0 and no dimension below 4.0
+stop:       QUALITY MET — avg 4.6 >= 4.0 and no dimension below 4.0     #(edidtable values according to your need)
 ```
 
 ---
