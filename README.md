@@ -325,9 +325,14 @@ This is the tab worth watching.
 
 ### The screenshot
 
-Tab 1, side by side. **2.4 vs 4.6.** Same model, same prompt.
+Tab 1, side by side. **1.8 vs 2.4.** Same model, same prompt.
+<img width="1907" height="915" alt="image" src="https://github.com/user-attachments/assets/7a13f978-9ae5-45cb-89a8-af9011c30e5e" />
+
 
 That's the image. That's the whole argument.
+
+<img width="1310" height="830" alt="image" src="https://github.com/user-attachments/assets/db57bc41-d77b-450a-a9dd-ea6db53a0f6e" />
+
 
 ---
 
